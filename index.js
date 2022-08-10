@@ -8,17 +8,12 @@ console.log('mais cuidado voce foi multado ')
 
 
 
-/*var pais = 'argentina'
+var pais = 'argentina'
 console.log( {pais})
  if(pais != 'brasil'){
         console.log('voce e estrangeiro')
     }  else(
             console.log('voce e brasileiro')
-        )*/
+        )
 
 
-var idade =22
-if(
-    
-)
-consol.log
